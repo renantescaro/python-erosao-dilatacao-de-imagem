@@ -15,7 +15,9 @@
 #### Imagem dilatação
 ![Imagem dilatação](/assets/placas/3.png)
 
-#### Dependencias
-* python -m venv venv
-* venv\Scripts\activate.bat
-* pip install -r requirements.txt
+#### Instalar dependencias
+```bash
+python -m venv venv
+venv\Scripts\activate.bat
+pip install -r requirements.txt
+```
